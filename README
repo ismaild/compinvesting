@@ -1,1 +1,25 @@
-Bootstrap for coursera Computational Investing course
+Computation Investing Part 1
+============================
+
+1. Setup Gfortran
+=================
+
+Mac
+---
+
+- Visit http://hpc.sourceforge.net/
+- Download the version applicable to your version of Mac OSX, and follow installation instructions
+
+Ubuntu
+------
+- Follow instructions here: https://help.ubuntu.com/community/InstallingCompilers
+
+2. Setup virtual environment
+============================
+- Run: python bootstrap.py venv
+
+3. Setup PyQT
+=============
+
+4. Setup QSTool Kit
+===================

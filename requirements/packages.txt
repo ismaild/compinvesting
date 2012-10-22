@@ -1,0 +1,8 @@
+distribute==0.6.30
+epydoc==3.0.1
+numpy==1.6.1
+pandas==0.7.3
+python-dateutil==1.5
+scipy==0.10.0
+six==1.2.0
+wsgiref==0.1.2

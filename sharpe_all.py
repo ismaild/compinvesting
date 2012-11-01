@@ -14,4 +14,4 @@ with open(os.path.join(pwd,'output.csv'), 'w') as csvfile:
         ss = stockStats(stock_file, stock)
         if ss['avg_annual'] > 0 and ss['sharpe_ratio'] > 1:
             print ss
-            #writer.writerow(ss)
+            writer.writerow(ss)

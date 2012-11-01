@@ -1,5 +1,5 @@
 venv/*
-*.zip
+*.csv
 .idea/*
 .DS_Store
 *.pyc

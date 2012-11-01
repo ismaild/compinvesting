@@ -2,3 +2,4 @@ venv/*
 *.zip
 .idea/*
 .DS_Store
+*.pyc

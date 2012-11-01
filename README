@@ -1,5 +1,7 @@
-Computation Investing Part 1
+Computational Investing
 ============================
+
+Code for Computational Investing Part 1
 
 1. Setup Gfortran
 =================
@@ -20,6 +22,8 @@ Ubuntu
 
 3. Setup PyQT
 =============
+- http://www.riverbankcomputing.com/software/pyqt/intro
 
 4. Setup QSTool Kit
 ===================
+- http://wiki.quantsoftware.org/index.php?title=QuantSoftware_ToolKit
